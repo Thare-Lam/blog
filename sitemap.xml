@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://thare.cn//404.html</loc>
+    
+    <lastmod>2019-02-19T14:48:37.293Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://thare.cn/about/index.html</loc>
     
     <lastmod>2019-02-19T14:41:40.744Z</lastmod>
@@ -54,13 +61,6 @@
     <loc>https://thare.cn/posts/c358565.html</loc>
     
     <lastmod>2018-10-14T16:25:06.799Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://thare.cn//404.html</loc>
-    
-    <lastmod>2018-10-12T02:05:06.030Z</lastmod>
     
   </url>
   
